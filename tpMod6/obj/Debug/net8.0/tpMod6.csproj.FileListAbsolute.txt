@@ -1,0 +1,14 @@
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\tpMod6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\tpMod6.AssemblyInfoInputs.cache
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\tpMod6.AssemblyInfo.cs
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\tpMod6.csproj.CoreCompileInputs.cache
+D:\C#\tpMod6\tpMod6\bin\Debug\net8.0\tpMod6.exe
+D:\C#\tpMod6\tpMod6\bin\Debug\net8.0\tpMod6.deps.json
+D:\C#\tpMod6\tpMod6\bin\Debug\net8.0\tpMod6.runtimeconfig.json
+D:\C#\tpMod6\tpMod6\bin\Debug\net8.0\tpMod6.dll
+D:\C#\tpMod6\tpMod6\bin\Debug\net8.0\tpMod6.pdb
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\tpMod6.dll
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\refint\tpMod6.dll
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\tpMod6.pdb
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\tpMod6.genruntimeconfig.cache
+D:\C#\tpMod6\tpMod6\obj\Debug\net8.0\ref\tpMod6.dll
